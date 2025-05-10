@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.10">
+  <diagram name="Seite-1" id="jW_Ev9PfmGsdIHceFEIm">
+    <mxGraphModel dx="1418" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fc6nXALGjgbMEP9GJVV0-2" value="POST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc6nXALGjgbMEP9GJVV0-4" value="GET" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc6nXALGjgbMEP9GJVV0-6" value="PUT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc6nXALGjgbMEP9GJVV0-8" value="DELETE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc6nXALGjgbMEP9GJVV0-9" value="&lt;strong data-end=&quot;3509&quot; data-start=&quot;3487&quot;&gt;/api/table&lt;/strong&gt;&amp;nbsp;→ „Datei hochladen“" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc6nXALGjgbMEP9GJVV0-10" value="&lt;strong data-end=&quot;3558&quot; data-start=&quot;3537&quot;&gt;/api/table&lt;/strong&gt;&amp;nbsp;→ „Zertifikate abrufen“" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc6nXALGjgbMEP9GJVV0-11" value="&lt;strong data-end=&quot;3616&quot; data-start=&quot;3590&quot;&gt;/api/table/{id}&lt;/strong&gt; → „Zertifikat aktualisieren“" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc6nXALGjgbMEP9GJVV0-12" value="&lt;strong data-end=&quot;3682&quot; data-start=&quot;3653&quot;&gt;/api/table/{id}&lt;/strong&gt; → „Zertifikat löschen“" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="550" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
